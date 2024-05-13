@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <div className='App'>
-        <Router>
+        <Router basename="/express-pizza-react">
         <Navbar/>
           <Routes>
         <Route path='/' exact element={<Home/>}/>
