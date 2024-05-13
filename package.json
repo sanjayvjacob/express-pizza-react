@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sanjayvjacob.github.io/express-pizza-react",
+  "homepage": "https://sanjayvjacob.github.io/express-pizza-react/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
