@@ -7,7 +7,7 @@ const About = () => {
     <div className='about'>
       <div 
       className='aboutTop'
-      style={{background: `url(${MultiplePizzas})`}}>
+      style={{backgroundImage: `url(${MultiplePizzas})`}}>
       </div>
       <div className='aboutBottom'>
         <h1>ABOUT US</h1>
