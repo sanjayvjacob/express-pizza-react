@@ -5,10 +5,8 @@ import "./Home.css"
 
 const Home = () => {
   return (
-    <div 
-    className='home'
-    style={{backgroundImage: `url(${BannerImage})`}}
-    >
+    <div className='home'
+    style={{backgroundImage: `url(${BannerImage})`}}>
       <div 
       className='headerContainer'
        >
