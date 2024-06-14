@@ -13,7 +13,13 @@
 
 ### Screenshot
 
-![](.screenshots/screenshot1.png)
-![](.screenshots/screenshot2.png)
-![](.screenshots/screenshot3.png)
-![](.screenshots/screenshot4.png)
+<div align='center'>
+Home page
+![](./public/screenshots/screenshot1.png)
+Menu page
+![](./public/screenshots/screenshot2.png)
+About page
+![](./public/screenshots/screenshot3.png)
+Contact page
+![](./public/screenshots/screenshot4.png)
+</div>
