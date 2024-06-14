@@ -15,11 +15,11 @@
 
 <div align='center'>
 Home page
-![](./public/screenshots/screenshot1.png)
+<img src='./public/screenshots/screenshot1.png'/>
 Menu page
-![](./public/screenshots/screenshot2.png)
+<img src='./public/screenshots/screenshot2.png'/>
 About page
-![](./public/screenshots/screenshot3.png)
+<img src='./public/screenshots/screenshot3.png'/>
 Contact page
-![](./public/screenshots/screenshot4.png)
+<img src='./public/screenshots/screenshot4.png'/>
 </div>
