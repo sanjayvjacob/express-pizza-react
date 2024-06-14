@@ -9,6 +9,7 @@
 .menu .menuTitle {
   font-family: cursive;
   font-size: 60px;
+  margin: 10px 0;
 }
 
 .menuList {
@@ -22,9 +23,10 @@
 /* MENU ITEM STYLING */
 
 .menuItem {
+  text-align: center;
   border-radius: 15px;
   width: 300px;
-  height: 350px;
+  height: 300px;
   margin: 20px;
   box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
 }
