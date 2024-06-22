@@ -13,7 +13,6 @@
 
 ### Screenshot
 
-<!--
 <div align='center'>
 Home page
 <img src='./public/screenshots/screenshot1.png'/>
@@ -23,4 +22,4 @@ About page
 <img src='./public/screenshots/screenshot3.png'/>
 Contact page
 <img src='./public/screenshots/screenshot4.png'/>
-</div> -->
+</div>
