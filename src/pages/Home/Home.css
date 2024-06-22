@@ -21,19 +21,19 @@
   align-items: center;
   font-size: 90px;
   height: 60px;
-  font-weight: 50;
-  color: black;
+  font-weight: 100;
+  color: #fff;
 }
 
 .headerContainer p {
   padding: 0;
   font-size: 40px;
   font-weight: lighter;
-  color: black;
+  color: #fff;
 }
 
 .headerContainer button {
-  color: black;
+  color: #fff;
   border: none;
   border-radius: 5px;
   cursor: pointer;

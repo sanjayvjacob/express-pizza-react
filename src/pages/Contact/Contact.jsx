@@ -1,6 +1,6 @@
 import React from 'react'
 import "./Contact.css"
-import pizzaLeft from "../../assets/pizzaLeft.jpg"
+import pizzaLeft from "../../assets/pizzaLeft.avif"
 
 const Contact = () => {
   return (
